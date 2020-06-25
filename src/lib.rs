@@ -1,4 +1,4 @@
-#![doc = "Peripheral access API for Ambiq APOLLO3 microcontrollers\n\n"]
+#![doc = "Peripheral access API for APOLLO3 microcontrollers (generated using svd2rust v0.17.0)\n\nYou can find an overview of the API [here].\n\n[here]: https://docs.rs/svd2rust/0.17.0/svd2rust/#peripheral-api"]
 #![deny(const_err)]
 #![deny(dead_code)]
 #![deny(improper_ctypes)]
